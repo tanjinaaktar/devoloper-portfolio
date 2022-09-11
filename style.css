@@ -6,12 +6,16 @@ body {
 
 h1 {
 	font-size: 50px;
+	
 }
 h2{
 	font-size: 40px;
 }
+h3{
+	color: orange;
+}
 
-.color-orange {
+.orange-color {
 	color: orange;
 }
 
@@ -33,7 +37,7 @@ h2{
 
 }
 
-.link-bottom {
+.link-buttom {
 	text-decoration: no;
 	background-image: linear-gradient(orange, tomato);
 	padding: 8px 30px; color:white;
